@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <i>I build systems in C and Python — a teaching OS kernel, parallel algorithms, vehicle<br>
-  routing heuristics, image classifiers — and I write READMEs that say where each one falls short.</i>
+  <i>I build things in Java, C and Python — full-stack web apps, a teaching OS kernel, parallel<br>
+  algorithms, routing heuristics, image classifiers — and I write READMEs that say where each falls short.</i>
 </p>
 
 ---
 
-O que está aqui é código de disciplina e de projeto próprio: sistemas em **C** (SO
-didático, programação paralela, grafos), otimização e aprendizado de máquina em
-**Python**, e web full-stack (**Angular/TypeScript** no front, **FastAPI** e
-**Spring** no back). Nos projetos que valem, o README diz o que é, por que foi feito
-daquele jeito e o que ficou de fora.
+O que está aqui é código de disciplina e de projeto próprio: web em **Java**
+(JSF/PrimeFaces e Spring) e full-stack com **Angular/TypeScript** e **FastAPI**,
+sistemas em **C** (SO didático, programação paralela, grafos), e otimização e
+aprendizado de máquina em **Python**. Nos projetos que valem, o README diz o que é,
+por que foi feito daquele jeito e o que ficou de fora.
 
 ## 🧰 Tecnologias
 
