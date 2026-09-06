@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Néia Torres</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação na <b>UFPR</b> · Curitiba, Brasil
+  Bacharel em Ciência da Computação pela <b>UFPR</b> · Curitiba, Brasil
 </p>
 
 <p align="center">
@@ -75,13 +75,6 @@ daquele jeito e o que ficou de fora.
   **[parallel-binary-search](https://github.com/LucasNeiaTorres/parallel-binary-search)**
   — programação paralela em C: o mesmo tipo de problema atacado com MPI e com
   pool de threads.
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasNeiaTorres&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNeiaTorres&layout=compact&hide_border=true&langs_count=8" alt="Linguagens mais usadas">
-</p>
 
 ## 📫 Contato
 
