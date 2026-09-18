@@ -42,11 +42,6 @@ por que foi feito daquele jeito e o que ficou de fora.
 </p>
 
 ## 📌 Projetos em destaque
-
-- **[en-tracker](https://github.com/LucasNeiaTorres/en-tracker)** — painel de um
-  plano de 30 dias de inglês falado com uma IA. O mais maduro daqui: CI no GitHub
-  Actions e 151 testes. A regra central é nunca assumir que a IA registrou a
-  sessão — o painel compara o que o plano esperava com o que está de fato no log.
 - **[tcc-mdvrp](https://github.com/LucasNeiaTorres/tcc-mdvrp)** — TCC: roteamento
   de veículos com múltiplos depósitos (MDVRP) sob falhas. Clusterização capacitada
   e algoritmo genético montam o plano do dia sobre as instâncias de Cordeau; um
